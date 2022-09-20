@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser --ip=0.0.0.0 --template=material --enable_nbextensions=True Charty.ipynb
